@@ -1,6 +1,6 @@
 {
   "gitSyncId": "68383f32012f8e764aaf2ee6_38e158a7-4e25-4903-b052-c0b24815ec2e",
-  "id": "Page2_Query1",
+  "id": "Page2 Renamed_Query1",
   "pluginId": "postgres-plugin",
   "pluginType": "DB",
   "unpublishedAction": {
@@ -23,7 +23,7 @@
       "pluginId": "postgres-plugin"
     },
     "name": "Query1",
-    "pageId": "Page2",
+    "pageId": "Page2 Renamed",
     "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": false
   }
