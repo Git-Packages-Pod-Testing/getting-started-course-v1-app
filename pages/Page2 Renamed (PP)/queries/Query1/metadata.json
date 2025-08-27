@@ -24,7 +24,7 @@
     },
     "name": "Query1",
     "pageId": "Page2 Renamed (PP)",
-    "runBehaviour": "ON_PAGE_LOAD",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }
